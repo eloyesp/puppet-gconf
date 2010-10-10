@@ -1,0 +1,10 @@
+{
+	"license":	"GPL",
+	"author": "Trever Fischer <tdfischer@fedoraproject.org>",
+	"maintainer": "Trever Fischer <tdfischer@fedoraproject.org>",
+	"version": "0.1",
+	"source": "http://gitorious.org/puppet-gconf/puppet-gconf",
+	"project_page": "http://gitorious.org/puppet-gconf",
+	"puppetversion": "0.25",
+	"summary": "Puppet module for configuring gconf"
+}
